@@ -1,1 +1,1 @@
-# mc_pixelart_generator
+# Minecraft Pixel Art Generator
