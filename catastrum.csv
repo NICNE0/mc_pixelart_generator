@@ -1,0 +1,51 @@
+﻿CODIGO DE ZONA,CATEGORIA,SUB-CATEGORIA,NUMERO,CALLE,VICUS,MUNICIPIUM,PROVINCIA,NUMERO DE UNIDADES,AREA PARCELA,PROPIETARIO,OCUPACION,OCUPACION MAXIMA,VALOR CATASTRAL,IMPUESTOS ANUALES,IMPUESTOS MENSUALES
+MX-rc,Mixta,residencial - comercial,4,Vicus Aletiae,Portus Aletiae,Brundisium,Campania,7,"1,238 m²",Cúria de Brundisium,1,60,"247,600.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,4,Carrer d'Arausio,Fora Imperialia,Brundisium,Campania,6,510 m²,Pontius Effaeristus Sanctorio,1,50,"102,000.00 ฿","1,938.00 ฿",161.50 ฿
+MX-rc,Mixta,residencial - comercial,17,Ronda del Capitoli,Capitolium,Brundisium,Campania,1,808 m²,Ioseph Filmusmacchius,5,35,"161,600.00 ฿","3,070.40 ฿",255.87 ฿
+MX-rc,Mixta,residencial - comercial,4,Via Àuria,Fora Imperialia,Brundisium,Campania,18,"2,120 m²",Gaius Marcus Melenius,3,210,"424,000.00 ฿","8,056.00 ฿",671.33 ฿
+CM-di,Comercial,dist minorista,2,Carrer d'Arausio,Fora Imperialia,Brundisium,Campania,1,362 m²,Gaius Marcus Melenius,1,25,"65,160.00 ฿","1,238.04 ฿",103.17 ฿
+GB-ad,Gubernamental,Administrativo,2,Via Àuria,Fora Imperialia,Brundisium,Campania,1,"2,881 m²",Cúria de Brundisium,1,500,"144,050.00 ฿",0.00 ฿,0.00 ฿
+CL-ml,Clerical,monumentos y lugares sagrados,1,Plaça del Capitoli,Capitolium,Brundisium,Campania,1,"2,798 m²",Cúria de Brundisium,1,700,"1,399,000.00 ฿",0.00 ฿,0.00 ฿
+GB-se,Gubernamental,Servicios,1,Plaça de la Biblioteca,Poscania,Brundisium,Campania,1,"11,751 m²",Cúria de Brundisium,1,1500,"587,550.00 ฿",0.00 ฿,0.00 ฿
+GB-se,Gubernamental,Servicios,2,Via Albinovina,Fora Imperialia,Brundisium,Campania,20,"2,250 m²",Cúria de Brundisium,1,700,"112,500.00 ฿",0.00 ฿,0.00 ฿
+CL-ml,Clerical,monumentos y lugares sagrados,3,Via Albinovina,Fora Imperialia,Brundisium,Campania,1,"7,304 m²",Cúria de Brundisium,1,1000,"3,652,000.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,1,Vicus Elactium,Fora Imperialia,Brundisium,Campania,5,405 m²,Lucius Picinius Corvo,40,70,"81,000.00 ฿","1,539.00 ฿",128.25 ฿
+CL-ml,Clerical,monumentos y lugares sagrados,7,Vicus Elactium,Fora Imperialia,Brundisium,Campania,1,192 m²,Cúria de Brundisium,1,30,"96,000.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,2,Carrer de l'Arcont,Fora Imperialia,Brundisium,Campania,3,"2,706 m²",Lucius Picinius Corvo,6,40,"541,200.00 ฿","10,282.80 ฿",856.90 ฿
+MX-rc,Mixta,residencial - comercial,2,Carrer de Sant Agustí,Capitolium,Brundisium,Campania,3,198 m²,Marcus Laurentius Flaccidus,21,30,"39,600.00 ฿",752.40 ฿,62.70 ฿
+MX-rc,Mixta,residencial - comercial,4,Carrer de Sant Agustí,Capitolium,Brundisium,Campania,5,330 m²,Marianus Rajoyus Breyus,30,50,"66,000.00 ฿","1,254.00 ฿",104.50 ฿
+MX-rc,Mixta,residencial - comercial,1,Carrer d'Arausio,Fora Imperialia,Brundisium,Campania,2,195 m²,Iulius Faustinus Severus,17,20,"39,000.00 ฿",741.00 ฿,61.75 ฿
+CM-di,Comercial,dist minorista,1,Fòrum Principal,Fora Imperialia,Brundisium,Campania,4,"1,125 m²",Cúria de Brundisium,25,50,"202,500.00 ฿",0.00 ฿,0.00 ฿
+CL-ml,Clerical,monumentos y lugares sagrados,2,Fòrum Principal,Fora Imperialia,Brundisium,Campania,1,693 m²,Cúria de Brundisium,1,150,"346,500.00 ฿",0.00 ฿,0.00 ฿
+CL-ml,Clerical,monumentos y lugares sagrados,3,Fòrum Principal,Fora Imperialia,Brundisium,Campania,1,"1,196 m²",Cúria de Brundisium,1,200,"598,000.00 ฿",0.00 ฿,0.00 ฿
+GB-ju,Gubernamental,Judicial,4,Fòrum Principal,Fora Imperialia,Brundisium,Campania,1,"3,240 m²",Cúria de Brundisium,1,1500,"162,000.00 ฿",0.00 ฿,0.00 ฿
+CL-ml,Clerical,monumentos y lugares sagrados,5,Fòrum Principal,Fora Imperialia,Brundisium,Campania,1,893 m²,Cúria de Brundisium,1,200,"446,500.00 ฿",0.00 ฿,0.00 ฿
+CL-ml,Clerical,monumentos y lugares sagrados,6,Fòrum Principal,Fora Imperialia,Brundisium,Campania,1,550 m²,Cúria de Brundisium,1,100,"275,000.00 ฿",0.00 ฿,0.00 ฿
+CL-ml,Clerical,monumentos y lugares sagrados,7,Fòrum Principal,Fora Imperialia,Brundisium,Campania,1,"1,217 m²",Cúria de Brundisium,1,250,"608,500.00 ฿",0.00 ฿,0.00 ฿
+GB-se,Gubernamental,Servicios,9,Fòrum Principal,Fora Imperialia,Brundisium,Campania,2,"1,304 m²",Cúria de Brundisium,1,200,"65,200.00 ฿",0.00 ฿,0.00 ฿
+IN-ar,Industrial,artesanal,1,Camí d'Aquae Poivanae,Teverium Sud,Teverium,Campania,1,"12,000 m²",Cúria de Teverium,500,1500,"1,080,000.00 ฿",0.00 ฿,0.00 ฿
+IN-mf,Industrial,manufactura,2,Ronda del Port,Teverium Centre,Teverium,Campania,1,435 m²,Cúria de Teverium,35,50,"39,150.00 ฿",0.00 ฿,0.00 ฿
+CM-ci,Comercial,com. interno y externo,1,Ronda del Port,Teverium Centre,Teverium,Campania,6,351 m²,Cúria de Teverium,35,70,"31,590.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,4,Carrer de les Gavines,Teverium Centre,Teverium,Campania,1,49 m²,Iulius Nerius Ermengaudus,4,20,"9,800.00 ฿",186.20 ฿,15.52 ฿
+CM-di,Comercial,dist minorista,1,Via Àuria,Fora Imperialia,Brundisium,Campania,3,250 m²,Cúria de Brundisium,15,45,"45,000.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,6,Via Àuria,Capitolium,Brundisium,Campania,6,377 m²,Iulius Faustinus Severus,1,35,"75,400.00 ฿","1,432.60 ฿",119.38 ฿
+MX-rc,Mixta,residencial - comercial,7,Via Àuria,Capitolium,Brundisium,Campania,3,315 m²,Servius Mancius Testificator,1,40,"63,000.00 ฿","1,197.00 ฿",99.75 ฿
+MX-rc,Mixta,residencial - comercial,3,Via Àuria,Capitolium,Brundisium,Campania,4,425 m²,Fastus Cistus,1,50,"85,000.00 ฿","1,615.00 ฿",134.58 ฿
+GB-se,Gubernamental,Servicios,5,Via Àuria,Capitolium,Brundisium,Campania,1,84 m²,Cúria de Brundisium,1,0,"4,200.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,1,Carrer de Sant Agustí,Fora Imperialia,Brundisium,Campania,5,432 m²,Imbaculus Deurbis,1,60,"86,400.00 ฿","1,641.60 ฿",136.80 ฿
+MX-rc,Mixta,residencial - comercial,3,Carrer de Sant Agustí,Fora Imperialia,Brundisium,Campania,2,168 m²,Marianus Rajoyus Breyus,1,30,"33,600.00 ฿",638.40 ฿,53.20 ฿
+GB-ad,Gubernamental,Administrativo,1,Placeta del Funeral,Fora Imperialia,Brundisium,Campania,2,189 m²,Cúria de Brundisium,1,40,"9,450.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,6,Carrer de Sant Agustí,Capitolium,Brundisium,Campania,2,165 m²,Marcus Antoninus Gavelano,1,30,"33,000.00 ฿",627.00 ฿,52.25 ฿
+CM-ci,Comercial,com. interno y externo,6,Via Albinovina,Fora Imperialia,Brundisium,Campania,4,697 m²,Cúria de Brundisium,4,40,"62,730.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,4,Via Albinovina,Fora Imperialia,Brundisium,Campania,10,688 m²,Duralex Sedlex,1,120,"137,600.00 ฿","2,614.40 ฿",217.87 ฿
+MX-rc,Mixta,residencial - comercial,2,Carrer d'Ístria,Fora Imperialia,Brundisium,Campania,6,648 m²,Publius Effialtus Laurentius,1,80,"129,600.00 ฿","2,462.40 ฿",205.20 ฿
+MX-rc,Mixta,residencial - comercial,4,Carrer d'Ístria,Fora Imperialia,Brundisium,Campania,3,182 m²,Appius Metellus Draco,1,30,"36,400.00 ฿",691.60 ฿,57.63 ฿
+GB-ad,Gubernamental,Administrativo,1,Carrer d'Ístria,Fora Imperialia,Brundisium,Campania,1,"1,494 m²",Cúria de Brundisium,1,500,"74,700.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,6,Carrer d'Arausio,Fora Imperialia,Brundisium,Campania,4,276 m²,Decimus Fabianus Emancipator,1,50,"55,200.00 ฿","1,048.80 ฿",87.40 ฿
+GB-se,Gubernamental,Servicios,1,Plaça de la Gasela,Fora Imperialia,Brundisium,Campania,1,220 m²,Cúria de Brundisium,1,60,"11,000.00 ฿",0.00 ฿,0.00 ฿
+MX-rc,Mixta,residencial - comercial,3,Vicus Elactium,Fora Imperialia,Brundisium,Campania,2,180 m²,Servius Mancius Testificator,1,40,"36,000.00 ฿",684.00 ฿,57.00 ฿
+MX-rc,Mixta,residencial - comercial,5,Vicus Elactium,Fora Imperialia,Brundisium,Campania,1,168 m²,Delminia Secunda,1,20,"33,600.00 ฿",638.40 ฿,53.20 ฿
+MX-rc,Mixta,residencial - comercial,9,Vicus Elactium,Fora Imperialia,Brundisium,Campania,1,168 m²,Lucius Galerius Priscus Fabianus,1,20,"33,600.00 ฿",638.40 ฿,53.20 ฿
+MX-rc,Mixta,residencial - comercial,11,Vicus Elactium,Fora Imperialia,Brundisium,Campania,6,482 m²,Aurelia Empurivus,1,60,"96,400.00 ฿","1,831.60 ฿",152.63 ฿
+IN-mf,Industrial,manufactura,1,Via Roca Roja,Portus Airis,Brundisium,Campania,1,"16,224 m²",Ioseph Filmusmacchius,10,2000,"1,460,160.00 ฿","27,743.04 ฿","2,311.92 ฿"
+GB-ad,Gubernamental,Administrativo,3,Plaça d'Anastàsia,Anctium,Brundisium,Campania,1,"1,557 m²",Assemblea de la plebs,250,250,"77,850.00 ฿",0.00 ฿,0.00 ฿
