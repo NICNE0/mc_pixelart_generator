@@ -1,0 +1,6 @@
+pandas
+jupyter
+numpy
+pillow
+scikit-learn
+openpyxl
